@@ -1,0 +1,153 @@
+[0918/105113.020:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/105113.077:ERROR:exception_snapshot_win.cc(100)] thread ID 21192 not found in process
+[0918/105113.020:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/105113.021:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/105113.077:ERROR:exception_snapshot_win.cc(100)] thread ID 19460 not found in process
+[0918/105113.078:ERROR:exception_snapshot_win.cc(100)] thread ID 25336 not found in process
+[0918/105113.021:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/105113.080:ERROR:exception_snapshot_win.cc(100)] thread ID 25072 not found in process
+[0918/105113.093:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31456_25436819\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.094:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31456_25436819\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.094:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31456_25436819\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.095:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31456_25436819\Crashpad\reports\b0408fa9-24da-4343-8e9c-b69da86d54b9.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.095:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/105113.146:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir8324_64088454\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.147:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir8324_64088454\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.146:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir14068_1455855466\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.147:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir8324_64088454\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.147:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir14068_1455855466\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.147:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir14068_1455855466\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.148:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir8324_64088454\Crashpad\reports\f39fe62d-978d-4cc6-b9af-2551e283e96d.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.148:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir14068_1455855466\Crashpad\reports\3add8f92-dddb-4e3d-be80-da59064f0a65.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.148:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/105113.148:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/105113.155:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir32348_235991499\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.178:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir32348_235991499\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.178:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir32348_235991499\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.190:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir32348_235991499\Crashpad\reports\416d9beb-f87a-4391-ad5f-abcb7829ed52.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/105113.190:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/115213.475:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/115728.101:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/115844.137:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/121954.702:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/122627.546:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/125217.374:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/125452.810:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/125852.512:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/130008.907:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/130524.718:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/130602.229:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/131035.682:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/131450.697:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/131743.851:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/131819.712:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131819.713:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131819.713:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131819.713:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131819.876:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131820.186:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131820.186:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131820.213:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131820.220:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131820.220:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131821.606:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131821.644:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131822.116:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0918/131819.713:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131825.176:ERROR:exception_snapshot_win.cc(100)] thread ID 12504 not found in process
+[0918/131819.712:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131825.176:ERROR:exception_snapshot_win.cc(100)] thread ID 7292 not found in process
+[0918/131819.709:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131825.176:ERROR:exception_snapshot_win.cc(100)] thread ID 16204 not found in process
+[0918/131820.186:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131820.220:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131821.358:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131821.186:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131822.107:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131821.654:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131822.661:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131821.296:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131824.186:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131824.297:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131824.385:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0918/131825.582:ERROR:exception_snapshot_win.cc(100)] thread ID 33620 not found in process
+[0918/131825.582:ERROR:exception_snapshot_win.cc(100)] thread ID 27864 not found in process
+[0918/131825.582:ERROR:exception_snapshot_win.cc(100)] thread ID 28816 not found in process
+[0918/131825.582:ERROR:exception_snapshot_win.cc(100)] thread ID 30512 not found in process
+[0918/131825.582:ERROR:exception_snapshot_win.cc(100)] thread ID 23252 not found in process
+[0918/131825.583:ERROR:exception_snapshot_win.cc(100)] thread ID 29092 not found in process
+[0918/131825.583:ERROR:exception_snapshot_win.cc(100)] thread ID 12392 not found in process
+[0918/131825.583:ERROR:exception_snapshot_win.cc(100)] thread ID 31536 not found in process
+[0918/131825.582:ERROR:exception_snapshot_win.cc(100)] thread ID 5564 not found in process
+[0918/131825.588:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir28508_130279723\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.588:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir28508_130279723\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.588:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir28508_130279723\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.810:ERROR:exception_snapshot_win.cc(100)] thread ID 22304 not found in process
+[0918/131825.950:ERROR:exception_snapshot_win.cc(100)] thread ID 29332 not found in process
+[0918/131825.588:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31108_1232079128\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.588:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir144_446709343\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.980:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31108_1232079128\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.980:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir144_446709343\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.980:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31108_1232079128\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.980:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir28508_130279723\Crashpad\reports\2cd16ad3-281c-42db-abdb-0b4345a59e79.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.980:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir144_446709343\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.980:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131825.993:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir30092_2056593916\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.993:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir30092_2056593916\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131825.994:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir30092_2056593916\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.166:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir144_446709343\Crashpad\reports\0204fdba-def2-4306-b34a-d2b290d27c5d.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.168:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131827.172:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31108_1232079128\Crashpad\reports\bee04711-d25f-4ac0-8e40-e316fa8ea574.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.172:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131826.057:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir5920_1841387497\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.173:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir5920_1841387497\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.173:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir30092_2056593916\Crashpad\reports\fee64520-42a4-4714-a856-398c5bc079a0.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.173:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131827.173:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir5920_1841387497\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.391:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir5920_1841387497\Crashpad\reports\cb57914d-b6e5-41a5-8b26-322e8f956d5c.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.391:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131827.577:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir17748_1925181886\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.577:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir17748_1925181886\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.577:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir17748_1925181886\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.578:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir17748_1925181886\Crashpad\reports\61a3607d-12bb-4e12-95e6-e34d64676ea9.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.578:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131827.796:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31104_1245260551\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.796:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31104_1245260551\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.796:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31104_1245260551\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.853:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir20352_321093080\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.853:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir20352_321093080\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.853:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir20352_321093080\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.855:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir20352_321093080\Crashpad\reports\a35019d5-9a72-4d69-a24e-28ea36a9f073.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.856:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131827.996:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31104_1245260551\Crashpad\reports\2f423380-f261-4062-9999-da0bc36138dc.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131827.996:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131828.222:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31948_1540983335\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.223:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31948_1540983335\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.223:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31948_1540983335\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.224:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31948_1540983335\Crashpad\reports\86d1a418-915b-4c9b-b482-5d622ab675bf.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.224:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131828.285:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31212_603341013\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.285:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31212_603341013\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.285:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31212_603341013\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.284:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir13952_1441562390\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.285:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir13952_1441562390\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.285:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir13952_1441562390\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.285:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir23072_1478883517\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.311:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir31212_603341013\Crashpad\reports\441e5a3b-c9f2-4bad-89be-d91061fe46de.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.325:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir27268_2139648106\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.770:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131828.770:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir27268_2139648106\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.770:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir23072_1478883517\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.770:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir27268_2139648106\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.770:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir23072_1478883517\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.867:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir17768_1501983974\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.867:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir17768_1501983974\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.867:ERROR:file_io_win.cc(162)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir17768_1501983974\Crashpad\settings.dat: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.918:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir27268_2139648106\Crashpad\reports\1faa996e-10fb-4eaf-9c94-449c24dee062.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131828.918:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131829.012:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir13952_1441562390\Crashpad\reports\51b1a075-a4f0-460c-ad99-f45bbe44734a.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131829.012:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131829.015:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir23072_1478883517\Crashpad\reports\056f24ba-bcf7-4813-a05f-33bd47692c11.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131829.015:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0918/131829.135:ERROR:file_io_win.cc(171)] CreateFile C:\Users\jsant\AppData\Local\Temp\scoped_dir17768_1501983974\Crashpad\reports\7aade451-aee7-4b2d-b14e-b81f3f4a5823.dmp: Le chemin d’accès spécifié est introuvable. (0x3)
+[0918/131829.135:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
