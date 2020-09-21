@@ -16,6 +16,7 @@ By executing the generation of one type (like : accessible data, alternative dat
 or all type) data. 
 All xAPI-SG statements will be generated in a new JSON file in the selected folder with the widget file selector.
 
+You will find in Youtbe an explain video about this data xapi-sg generator [here](https://youtu.be/jdDRzwawizw).
 ### xAPI-SG
 
 The **Experience API Profile for Serious Games (xAPI-SG)** is a validated xAPI Profile to collect information from 
